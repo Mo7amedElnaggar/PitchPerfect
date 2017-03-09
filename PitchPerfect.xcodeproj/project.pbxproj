@@ -13,6 +13,7 @@
 		34ED298B1E71D97E008710C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34ED298A1E71D97E008710C9 /* Assets.xcassets */; };
 		34ED298E1E71D97E008710C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34ED298C1E71D97E008710C9 /* LaunchScreen.storyboard */; };
 		34ED29961E71ECF7008710C9 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34ED29951E71ECF7008710C9 /* PlaySoundsViewController.swift */; };
+		34ED29981E7210C4008710C9 /* Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34ED29971E7210C4008710C9 /* Audio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		34ED298D1E71D97E008710C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34ED298F1E71D97E008710C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34ED29951E71ECF7008710C9 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		34ED29971E7210C4008710C9 /* Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Audio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				34ED29831E71D97E008710C9 /* AppDelegate.swift */,
 				34ED29851E71D97E008710C9 /* RecordSoundsViewController.swift */,
 				34ED29951E71ECF7008710C9 /* PlaySoundsViewController.swift */,
+				34ED29971E7210C4008710C9 /* Audio.swift */,
 				34ED29871E71D97E008710C9 /* Main.storyboard */,
 				34ED298A1E71D97E008710C9 /* Assets.xcassets */,
 				34ED298C1E71D97E008710C9 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34ED29981E7210C4008710C9 /* Audio.swift in Sources */,
 				34ED29861E71D97E008710C9 /* RecordSoundsViewController.swift in Sources */,
 				34ED29961E71ECF7008710C9 /* PlaySoundsViewController.swift in Sources */,
 				34ED29841E71D97E008710C9 /* AppDelegate.swift in Sources */,
