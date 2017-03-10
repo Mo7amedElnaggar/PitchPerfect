@@ -1,6 +1,6 @@
 # PitchPerfect :smile:
 
-[](/ScreenShot/1.png)
+[SD](/ScreenShot/1.png)
 
 ## installation
 you must have xCode IDE installed already on your mac OS X or you can download it from [HERE](https://developer.apple.com/xcode/)
