@@ -1,6 +1,6 @@
 # PitchPerfect :smile:
 
-[SD](/ScreenShot/1.png)
+![](/ScreenShot/1.png)
 
 ## installation
 you must have xCode IDE installed already on your mac OS X or you can download it from [HERE](https://developer.apple.com/xcode/)
@@ -19,4 +19,4 @@ this app is Called PitchPerfect and it is used for Recording your Voice and play
 I will be appriciated if you try it :smile: and add your own changes or fix any Issue faced you
 
 you can Choose from these effects blew :
-[](ScreenShot/3.png)
+![](ScreenShot/3.png)
