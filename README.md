@@ -1,7 +1,8 @@
 # PitchPerfect :smile:
 
+<p align="center">
 ![](/ScreenShot/1.png)
-
+</p>
 ## installation
 you must have xCode IDE installed already on your mac OS X or you can download it from [HERE](https://developer.apple.com/xcode/)
 open the Project in your xCode
