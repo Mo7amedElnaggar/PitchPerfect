@@ -77,6 +77,10 @@ class RecordSoundsViewController: UIViewController , AVAudioRecorderDelegate {
             performSegue(withIdentifier: "stopRecording", sender: audioRecorder.url)
         } else {
             // Alert Message That There is Exist Error in Recording Audio
+            let alert = UIAlertController(title: "Error" , message: "Audio Recorder Error" , preferredStyle: .alert)
+            alert.addAction(UIAlertAction(title: "Ok", style: .default, handler: nil))
+            
+            self.present(alert, animated: true, completion: nil)
         }
     }
     
